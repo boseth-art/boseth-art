@@ -64,7 +64,7 @@ I am a **Software Engineering Student** passionate about building tools that mak
 ### 📬 Let's Connect!
 
 - 📧 **Email:** [bosethofficial@gmail.com](mailto:bosethofficial@gmail.com)
-- 💼 **LinkedIn:** [Insert your Link Here]
+- 💼 **LinkedIn:** [www.linkedin.com/in/boseth-rathnayake-b50176324]
 
 ---
 <p align="center">
