@@ -15,7 +15,7 @@ I am a **Software Engineering Student** passionate about building tools that mak
 - 🛠️ **Current Project:** Developing an **Advanced URL Checker** to analyze link safety, status codes, and metadata.
 - 🌱 **Learning:** Mastering the .NET ecosystem and Laravel backend architecture.
 - 💞️ **Looking to collaborate on:** Cyber-security tools and open-source web frameworks.
-- ⚡ **Fun Fact:** [Insert a quick fun fact here, e.g., "I love digital art!" or "I'm a coffee-powered coder."]
+
 
 ---
 
