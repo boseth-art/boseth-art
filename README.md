@@ -16,7 +16,6 @@ I am a **Software Engineering Student** passionate about building tools that mak
 - 🌱 **Learning:** Mastering the .NET ecosystem and Laravel backend architecture.
 - 💞️ **Looking to collaborate on:** Cyber-security tools and open-source web frameworks.
 
-
 ---
 
 ### 🏗️ Featured Project: Advanced URL Checker
@@ -24,7 +23,7 @@ I am a **Software Engineering Student** passionate about building tools that mak
 > A robust tool designed to validate and analyze URLs in real-time.
 
 * **Logic:** Built with focus on security and response-time optimization.
-* **Tech Stack:** [e.g., Python / .NET / Laravel] — *Pick the one you are using!*
+* **Tech Stack:** .NET / Laravel
 * **Key Features:** Status code verification, security header analysis, and redirect tracing.
 
 ---
@@ -50,6 +49,12 @@ I am a **Software Engineering Student** passionate about building tools that mak
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
+#### 🎨 Design & Documentation
+<p align="left">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/draw.io-%23F08705.svg?style=for-the-badge&logo=diagrams.net&logoColor=white" />
+</p>
+
 ---
 
 ### 📊 GitHub Activity
@@ -64,7 +69,7 @@ I am a **Software Engineering Student** passionate about building tools that mak
 ### 📬 Let's Connect!
 
 - 📧 **Email:** [bosethofficial@gmail.com](mailto:bosethofficial@gmail.com)
-- 💼 **LinkedIn:** [www.linkedin.com/in/boseth-rathnayake-b50176324]
+- 💼 **LinkedIn:** [linkedin.com/in/boseth-rathnayake-b50176324](https://www.linkedin.com/in/boseth-rathnayake-b50176324)
 
 ---
 <p align="center">
