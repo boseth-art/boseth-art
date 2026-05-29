@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-Software%20Engineer-blueviolet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Academic-3rd--Year%20Undergraduate-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Academic-3rd--Year%201st--Semester-success?style=for-the-badge">
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Network%20Security-orange?style=for-the-badge">
 </p>
 
@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I am a third-year **Software Engineering Undergraduate** passionate about building secure, scalable backend architectures and optimizing system performance. I thrive on solving complex technical challenges, from low-level server configuration and cryptography to deep-level database storage analysis.
+I am a third-year, first-semester **Software Engineering Undergraduate** passionate about building secure, scalable backend architectures and optimizing system performance. I thrive on solving complex technical challenges, from low-level server configuration and cryptography to deep-level database storage analysis.
 
 - 🛠️ **Current Research:** Investigating sequential dual-bucket policing architectures to mitigate bursty network congestion and login storms.
 - 🌱 **Learning & Exploring:** Advanced PostgreSQL physical storage analysis, system architectures, and the .NET ecosystem.
