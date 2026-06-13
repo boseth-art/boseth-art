@@ -10,10 +10,10 @@
 
 ### 🚀 About Me
 
-I am a **Software Engineering Undergraduate** passionate about building secure, scalable backend architectures and optimizing system performance. I thrive on solving complex technical challenges, from low-level server configuration and cryptography to deep-level database storage analysis.
+I am a **Software Engineering Undergraduate** passionate about building secure, scalable backend architectures and optimizing system performance. I thrive on solving complex technical challenges, from low-level server configuration and cryptography to deep-level database storage analysis and network vulnerability assessment.
 
 - 🛠️ **Current Research:** Investigating sequential dual-bucket policing architectures to mitigate bursty network congestion and login storms.
-- 🌱 **Learning & Exploring:** Advanced PostgreSQL physical storage analysis, system architectures, and the .NET ecosystem.
+- 🌱 **Learning & Exploring:** Advanced PostgreSQL physical storage analysis, system penetration testing, and the .NET ecosystem.
 - 💞️ **Looking to collaborate on:** Open-source cybersecurity tools, high-performance middleware, and network infrastructure projects.
 
 ---
@@ -21,9 +21,9 @@ I am a **Software Engineering Undergraduate** passionate about building secure, 
 ### 🏗️ Featured Projects
 
 > **API Middleware & Reliability Architecture**
-> A robust backend solution designed to manage high-traffic systems.
+> A production-ready, highly stable backend middleware solution built to safeguard high-traffic systems against congestion and service failures.
 > * **Tech Stack:** Node.js, Redis
-> * **Key Features:** Implemented rate limiting, request queuing, and circuit breaker patterns to optimize response times and ensure system stability.
+> * **Key Features:** Successfully implemented and tested robust token-bucket rate limiting, Redis-backed request queuing, and a resilient circuit breaker pattern to maximize uptime and optimize traffic flow.
 
 > **Algorithm Sorting Visualizer**
 > An educational application designed to demonstrate the execution of complex sorting algorithms in real-time.
@@ -41,6 +41,13 @@ I am a **Software Engineering Undergraduate** passionate about building secure, 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+#### 🔒 Cybersecurity & Networking
+<p align="left">
+  <img src="https://img.shields.io/badge/Nmap-%234D90FE.svg?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-167DKA?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
 #### 🗄️ Databases & Caching
